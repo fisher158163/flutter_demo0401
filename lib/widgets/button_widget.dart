@@ -16,10 +16,10 @@ class ButtonWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       width: double.maxFinite,
-      height: 70,
+      height: 60,
       decoration: BoxDecoration(
         color: backgroundColor,
-        borderRadius: BorderRadius.circular(35),
+        borderRadius: BorderRadius.circular(30),
       ),
       child: Center(
         child: Text(

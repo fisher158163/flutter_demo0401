@@ -45,7 +45,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 textColor: Colors.white,
                 text: "Add Task"),
             SizedBox(
-              height: 20,
+              height: 15,
             ),
             ButtonWidget(
                 backgroundColor: Colors.white,
